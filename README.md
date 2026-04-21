@@ -1,6 +1,26 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo App
+
+A simple and modern Todo App built with React.
+
+## Features
+- Add / Edit / Delete tasks
+- Dark mode
+- Filter tasks
+- Responsive design
+- Mobile friendly
+- Live deployed app
+
+## Live Demo
+https://your-app.vercel.app
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+- Vite
 
 Currently, two official plugins are available:
 
